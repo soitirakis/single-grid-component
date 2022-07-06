@@ -10,7 +10,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ### Links
 
 - [GitHub Pages] 
-- [GitHub Code]
+- [GitHub Code] https://github.com/soitirakis/single-grid-component
 
 
 ### Continued development
